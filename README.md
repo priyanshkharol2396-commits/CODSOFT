@@ -1,6 +1,3 @@
 # CODSOFT
-Excited to share my latest projec 
-Rock-Paper-Scissors Game,  
-PASSWORD GENERATOR, 
-Contact Book 
-built using Python 🐍
+Excited to share my latest project
+Rock-Paper-Scissors Game built using Python 🐍
